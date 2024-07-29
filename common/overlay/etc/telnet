@@ -1,0 +1,1 @@
+TELNETD_ARGS="$TELNETD_ARGS -l /bin/sh"

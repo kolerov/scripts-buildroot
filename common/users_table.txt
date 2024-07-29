@@ -1,0 +1,2 @@
+# <username> <uid> <group> <gid> <password> <home>      <shell>  <groups> <comment>
+user         1000  user    1000  =          /home/user  /bin/sh  -
